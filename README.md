@@ -36,7 +36,7 @@ Estimating the resale value of flats in Singapore is challenging due to various 
 > A project report summarizing the process.
 
 # Data Source
-Singapore Resale Flat Prices Dataset
+https://beta.data.gov.sg/collections/189/view
 
 # Results
 This project benefits buyers and sellers in Singapore by providing accurate price estimates. It also demonstrates the practical use of machine learning in real estate.
