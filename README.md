@@ -6,8 +6,11 @@ This project aims to assist buyers and sellers in the Singapore housing market b
 
 # Skills Learned
 > Data Wrangling
+
 > Exploratory Data Analysis (EDA)
+
 > Model Building
+
 > Model Deployment
 
 # Domain
